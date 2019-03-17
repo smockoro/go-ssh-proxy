@@ -38,4 +38,7 @@ tags
 # Persistent undo
 [._]*.un~
 
+# sample key file 
+id_rsa*
+
 # End of https://www.gitignore.io/api/go,vim
